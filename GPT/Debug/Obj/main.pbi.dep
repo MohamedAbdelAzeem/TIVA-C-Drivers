@@ -1,0 +1,4 @@
+main.pbi: C:\ARM\ Course\GPT\tm4c123gh6pm_registers.h \
+  C:\ARM\ Course\GPT\Common_Macros.h C:\ARM\ Course\GPT\Compiler.h \
+  C:\ARM\ Course\GPT\Platform_Types.h C:\ARM\ Course\GPT\Std_Types.h \
+  C:\ARM\ Course\GPT\GPT.h C:\ARM\ Course\GPT\main.c

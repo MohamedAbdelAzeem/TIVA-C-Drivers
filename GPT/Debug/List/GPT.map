@@ -1,0 +1,200 @@
+###############################################################################
+#
+# IAR ELF Linker V8.50.9.278/W32 for ARM                  30/Mar/2021  23:45:11
+# Copyright 2007-2020 IAR Systems AB.
+#
+#    Output file  =  C:\ARM Course\GPT\Debug\Exe\GPT.out
+#    Map file     =  C:\ARM Course\GPT\Debug\List\GPT.map
+#    Command line =
+#        -f C:\Users\G4F80~1.VER\AppData\Local\Temp\EW6193.tmp ("C:\ARM
+#        Course\GPT\Debug\Obj\cstartup_M.o" "C:\ARM Course\GPT\Debug\Obj\GPT.o"
+#        "C:\ARM Course\GPT\Debug\Obj\main.o" --no_out_extension -o "C:\ARM
+#        Course\GPT\Debug\Exe\GPT.out" --redirect _Printf=_PrintfFullNoMb
+#        --redirect _Scanf=_ScanfFullNoMb --map "C:\ARM
+#        Course\GPT\Debug\List\GPT.map" --config "C:\Program Files (x86)\IAR
+#        Systems\Embedded Workbench
+#        8.4\arm\config\linker\TexasInstruments\TM4C123GH6.icf" --semihosting
+#        --entry __iar_program_start --vfe --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because some modules are built with
+size limitations (and not runtime checking), and --advanced_heap
+was not specified.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x0 { ro section .intvec };
+"P1":  place in [from 0x0 to 0x3'ffff] { ro };
+define block CSTACK with size = 4K, alignment = 8 { };
+define block HEAP with size = 8K, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'7fff] {
+          rw, block CSTACK, block HEAP };
+
+  Section          Kind         Address    Size  Object
+  -------          ----         -------    ----  ------
+"A0":                                     0x1c0
+  .intvec          const            0x0   0x1c0  cstartup_M.o [1]
+                                - 0x1c0   0x1c0
+
+"P1":                                     0x4b6
+  .text            ro code        0x1c0   0x32c  GPT.o [1]
+  .text            ro code        0x4ec    0xb0  main.o [1]
+  .text            ro code        0x59c    0x3a  zero_init3.o [3]
+  .rodata          const          0x5d6     0x2  main.o [1]
+  .text            ro code        0x5d8    0x28  data_init.o [3]
+  .iar.init_table  const          0x600    0x10  - Linker created -
+  .text            ro code        0x610    0x1e  cmain.o [3]
+  .text            ro code        0x62e     0x4  low_level_init.o [2]
+  .text            ro code        0x632     0x4  exit.o [2]
+  .text            ro code        0x636     0x2  cstartup_M.o [1]
+  .text            ro code        0x638     0xa  cexit.o [3]
+  .text            ro code        0x642     0x2  cstartup_M.o [1]
+  .text            ro code        0x644    0x14  exit.o [4]
+  .text            ro code        0x658    0x10  cstartup_M.o [1]
+  .text            ro code        0x668     0x2  cstartup_M.o [1]
+  .text            ro code        0x66a     0x2  cstartup_M.o [1]
+  .text            ro code        0x66c     0x2  cstartup_M.o [1]
+  .text            ro code        0x66e     0x2  cstartup_M.o [1]
+  .text            ro code        0x670     0x2  cstartup_M.o [1]
+  .text            ro code        0x672     0x2  cstartup_M.o [1]
+  .text            ro code        0x674     0x2  cstartup_M.o [1]
+  .rodata          const          0x676     0x0  zero_init3.o [3]
+                                - 0x676   0x4b6
+
+"P2", part 1 of 2:                          0x8
+  .bss             zero     0x2000'0000     0x4  GPT.o [1]
+  .bss             zero     0x2000'0004     0x4  GPT.o [1]
+                          - 0x2000'0008     0x8
+
+"P2", part 2 of 2:                       0x1000
+  CSTACK                    0x2000'0008  0x1000  <Block>
+    CSTACK         uninit   0x2000'0008  0x1000  <Block tail>
+                          - 0x2000'1008  0x1000
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+        0x676     0x3'ffff  0x3'f98a
+  0x2000'1008  0x2000'7fff    0x6ff8
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Zero (__iar_zero_init3)
+    1 destination range, total size 0x8:
+          0x2000'0000   0x8
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module            ro code  ro data  rw data
+    ------            -------  -------  -------
+command line/config:
+    -------------------------------------------
+    Total:
+
+C:\ARM Course\GPT\Debug\Obj: [1]
+    GPT.o                 812                 8
+    cstartup_M.o           34      448
+    main.o                176        2
+    -------------------------------------------
+    Total:              1'022      450        8
+
+dl7M_tln.a: [2]
+    exit.o                  4
+    low_level_init.o        4
+    -------------------------------------------
+    Total:                  8
+
+rt7M_tl.a: [3]
+    cexit.o                10
+    cmain.o                30
+    data_init.o            40
+    zero_init3.o           58
+    -------------------------------------------
+    Total:                138
+
+shb_l.a: [4]
+    exit.o                 20
+    -------------------------------------------
+    Total:                 20
+
+    Linker created                  16    4'096
+-----------------------------------------------
+    Grand Total:        1'188      466    4'104
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address   Size  Type      Object
+-----                       -------   ----  ----      ------
+.iar.init_table$$Base         0x600          --   Gb  - Linker created -
+.iar.init_table$$Limit        0x610          --   Gb  - Linker created -
+?main                         0x611         Code  Gb  cmain.o [3]
+CSTACK$$Base            0x2000'0008          --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'1008          --   Gb  - Linker created -
+Led_Red_Init                  0x4ed   0x54  Code  Gb  main.o [1]
+Region$$Table$$Base           0x600          --   Gb  - Linker created -
+Region$$Table$$Limit          0x610          --   Gb  - Linker created -
+Timer0A_ISR                   0x1c1   0x1e  Code  Gb  GPT.o [1]
+Timer0A_setCallBack           0x48f    0x6  Code  Gb  GPT.o [1]
+Timer0B_ISR                   0x1df   0x1e  Code  Gb  GPT.o [1]
+Timer_Init                    0x219  0x12c  Code  Gb  GPT.o [1]
+Timer_Start                   0x345  0x14a  Code  Gb  GPT.o [1]
+Toggle_led                    0x541    0xc  Code  Gb  main.o [1]
+Wide_Timer0A_ISR              0x1fd    0xe  Code  Gb  GPT.o [1]
+Wide_Timer0B_ISR              0x20b    0xe  Code  Gb  GPT.o [1]
+__cmain                       0x611         Code  Gb  cmain.o [3]
+__exit                        0x645   0x14  Code  Gb  exit.o [4]
+__iar_data_init3              0x5d9   0x28  Code  Gb  data_init.o [3]
+__iar_program_start           0x659   0x10  Code  Gb  cstartup_M.o [1]
+__iar_zero_init3              0x59d   0x3a  Code  Gb  zero_init3.o [3]
+__low_level_init              0x62f    0x4  Code  Gb  low_level_init.o [2]
+__vector_table                  0x0  0x1c0  Data  Gb  cstartup_M.o [1]
+_call_main                    0x61d         Code  Gb  cmain.o [3]
+_exit                         0x639         Code  Gb  cexit.o [3]
+_main                         0x627         Code  Gb  cmain.o [3]
+exit                          0x633    0x4  Code  Gb  exit.o [2]
+g_Timer0A_callBackPtr   0x2000'0000    0x4  Data  Lc  GPT.o [1]
+g_Timer0B_callBackPtr   0x2000'0004    0x4  Data  Lc  GPT.o [1]
+main                          0x54d   0x28  Code  Gb  main.o [1]
+
+
+[1] = C:\ARM Course\GPT\Debug\Obj
+[2] = dl7M_tln.a
+[3] = rt7M_tl.a
+[4] = shb_l.a
+
+  1'188 bytes of readonly  code memory
+    466 bytes of readonly  data memory
+  4'104 bytes of readwrite data memory
+
+Errors: none
+Warnings: none
