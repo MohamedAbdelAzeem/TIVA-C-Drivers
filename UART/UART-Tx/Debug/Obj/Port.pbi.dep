@@ -1,0 +1,6 @@
+Port.pbi: C:\Arm\ Exercises\UART\tm4c123gh6pm_registers.h \
+  C:\Arm\ Exercises\UART\Common_Macros.h C:\Arm\ Exercises\UART\Port_Cfg.h \
+  C:\Arm\ Exercises\UART\Compiler.h \
+  C:\Arm\ Exercises\UART\Platform_Types.h \
+  C:\Arm\ Exercises\UART\Std_Types.h C:\Arm\ Exercises\UART\Port.h \
+  C:\Arm\ Exercises\UART\Port.c

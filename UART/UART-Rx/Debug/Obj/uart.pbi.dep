@@ -1,0 +1,6 @@
+uart.pbi: C:\Arm\ Exercises\UART-Rx\uart.c C:\Arm\ Exercises\UART-Rx/uart.h \
+  C:\Arm\ Exercises\UART-Rx/Common_Macros.h \
+  C:\Arm\ Exercises\UART-Rx/Std_Types.h \
+  C:\Arm\ Exercises\UART-Rx/Platform_Types.h \
+  C:\Arm\ Exercises\UART-Rx/Compiler.h \
+  C:\Arm\ Exercises\UART-Rx/tm4c123gh6pm_registers.h

@@ -1,0 +1,176 @@
+###############################################################################
+#
+# IAR ELF Linker V8.50.9.278/W32 for ARM                  11/Apr/2021  02:52:26
+# Copyright 2007-2020 IAR Systems AB.
+#
+#    Output file  =  C:\Arm Exercises\UART-Rx\Debug\Exe\Project.out
+#    Map file     =  C:\Arm Exercises\UART-Rx\Debug\List\Project.map
+#    Command line =
+#        -f C:\Users\G4F80~1.VER\AppData\Local\Temp\EW7612.tmp ("C:\Arm
+#        Exercises\UART-Rx\Debug\Obj\main.o" "C:\Arm
+#        Exercises\UART-Rx\Debug\Obj\uart.o" --no_out_extension -o "C:\Arm
+#        Exercises\UART-Rx\Debug\Exe\Project.out" --redirect
+#        _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb --map "C:\Arm
+#        Exercises\UART-Rx\Debug\List\Project.map" --config "C:\Program Files
+#        (x86)\IAR Systems\Embedded Workbench
+#        8.4\arm\config\linker\TexasInstruments\TM4C123GH6.icf" --semihosting
+#        --entry __iar_program_start --vfe --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because some modules are built with
+size limitations (and not runtime checking), and --advanced_heap
+was not specified.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x0 { ro section .intvec };
+"P1":  place in [from 0x0 to 0x3'ffff] { ro };
+define block CSTACK with size = 4K, alignment = 8 { };
+define block HEAP with size = 8K, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'7fff] {
+          rw, block CSTACK, block HEAP };
+
+No sections matched the following patterns:
+
+  rw  in "P2"
+
+
+  Section   Kind         Address    Size  Object
+  -------   ----         -------    ----  ------
+"A0":                               0x40
+  .intvec   ro code          0x0    0x40  vector_table_M.o [4]
+                          - 0x40    0x40
+
+"P1":                              0x4ac
+  .text     ro code         0x40   0x2de  uart.o [1]
+  .text     ro code        0x31e     0x2  vector_table_M.o [4]
+  .text     ro code        0x320   0x138  main.o [1]
+  .text     ro code        0x458    0x22  fpinit_M.o [3]
+  .text     ro code        0x47c    0x1e  cmain.o [4]
+  .text     ro code        0x49a     0x4  low_level_init.o [2]
+  .text     ro code        0x49e     0x4  exit.o [2]
+  .text     ro code        0x4a4     0xa  cexit.o [4]
+  .text     ro code        0x4b0    0x14  exit.o [5]
+  .text     ro code        0x4c4    0x1c  cstartup_M.o [4]
+  .rodata   const          0x4e0     0x8  main.o [1]
+  .rodata   const          0x4e8     0x4  main.o [1]
+                         - 0x4ec   0x4ac
+
+"P2":                             0x1000
+  CSTACK             0x2000'0000  0x1000  <Block>
+    CSTACK  uninit   0x2000'0000  0x1000  <Block tail>
+                   - 0x2000'1000  0x1000
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+        0x4ec     0x3'ffff  0x3'fb14
+  0x2000'1000  0x2000'7fff    0x7000
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module            ro code  ro data  rw data
+    ------            -------  -------  -------
+command line/config:
+    -------------------------------------------
+    Total:
+
+C:\Arm Exercises\UART-Rx\Debug\Obj: [1]
+    main.o                312       12
+    uart.o                734
+    -------------------------------------------
+    Total:              1'046       12
+
+dl7M_tln.a: [2]
+    exit.o                  4
+    low_level_init.o        4
+    -------------------------------------------
+    Total:                  8
+
+m7M_tls.a: [3]
+    fpinit_M.o             34
+    -------------------------------------------
+    Total:                 34
+
+rt7M_tl.a: [4]
+    cexit.o                10
+    cmain.o                30
+    cstartup_M.o           28
+    vector_table_M.o       66
+    -------------------------------------------
+    Total:                134
+
+shb_l.a: [5]
+    exit.o                 20
+    -------------------------------------------
+    Total:                 20
+
+    Gaps                    6
+    Linker created                        4'096
+-----------------------------------------------
+    Grand Total:        1'248       12    4'096
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                     Address   Size  Type      Object
+-----                     -------   ----  ----      ------
+?main                       0x47d         Code  Gb  cmain.o [4]
+CSTACK$$Base          0x2000'0000          --   Gb  - Linker created -
+CSTACK$$Limit         0x2000'1000          --   Gb  - Linker created -
+Led_Blue_Init               0x375   0x54  Code  Gb  main.o [1]
+Led_Red_Init                0x321   0x54  Code  Gb  main.o [1]
+Region$$Table$$Base           0x0          --   Gb  - Linker created -
+Region$$Table$$Limit          0x0          --   Gb  - Linker created -
+UART_Init                    0x41  0x214  Code  Gb  uart.o [1]
+UART_Recieve_Byte           0x255   0x50  Code  Gb  uart.o [1]
+UART_receiveString          0x2e5   0x3a  Code  Gb  uart.o [1]
+__cmain                     0x47d         Code  Gb  cmain.o [4]
+__exit                      0x4b1   0x14  Code  Gb  exit.o [5]
+__iar_init_vfp              0x459         Code  Gb  fpinit_M.o [3]
+__iar_program_start         0x4c5         Code  Gb  cstartup_M.o [4]
+__low_level_init            0x49b    0x4  Code  Gb  low_level_init.o [2]
+__vector_table                0x0         Data  Gb  vector_table_M.o [4]
+_call_main                  0x489         Code  Gb  cmain.o [4]
+_exit                       0x4a5         Code  Gb  cexit.o [4]
+_main                       0x493         Code  Gb  cmain.o [4]
+exit                        0x49f    0x4  Code  Gb  exit.o [2]
+main                        0x3c9   0x6a  Code  Gb  main.o [1]
+
+
+[1] = C:\Arm Exercises\UART-Rx\Debug\Obj
+[2] = dl7M_tln.a
+[3] = m7M_tls.a
+[4] = rt7M_tl.a
+[5] = shb_l.a
+
+  1'248 bytes of readonly  code memory
+     12 bytes of readonly  data memory
+  4'096 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

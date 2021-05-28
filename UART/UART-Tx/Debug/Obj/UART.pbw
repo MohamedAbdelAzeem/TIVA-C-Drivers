@@ -1,0 +1,4556 @@
+[
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@40@macro@TM4C123GH6PM_REGISTERS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TM4C123GH6PM_REGISTERS",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "TM4C123GH6PM_REGISTERS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@284@macro@GPIO_PORTA_DATA_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_DATA_REG",
+    "location": {
+      "column": "9",
+      "line": "9",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_DATA_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@323@macro@GPIO_PORTA_DIR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_DIR_REG",
+    "location": {
+      "column": "9",
+      "line": "12",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_DIR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@393@macro@GPIO_PORTA_AFSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_AFSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "13",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_AFSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@463@macro@GPIO_PORTA_PUR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_PUR_REG",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_PUR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@533@macro@GPIO_PORTA_PDR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_PDR_REG",
+    "location": {
+      "column": "9",
+      "line": "15",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_PDR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@603@macro@GPIO_PORTA_DEN_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_DEN_REG",
+    "location": {
+      "column": "9",
+      "line": "16",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_DEN_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@673@macro@GPIO_PORTA_LOCK_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_LOCK_REG",
+    "location": {
+      "column": "9",
+      "line": "17",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_LOCK_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@743@macro@GPIO_PORTA_CR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_CR_REG",
+    "location": {
+      "column": "9",
+      "line": "18",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_CR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@813@macro@GPIO_PORTA_AMSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_AMSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_AMSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@883@macro@GPIO_PORTA_PCTL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_PCTL_REG",
+    "location": {
+      "column": "9",
+      "line": "20",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_PCTL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@998@macro@GPIO_PORTA_IS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_IS_REG",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_IS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@1068@macro@GPIO_PORTA_IBE_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_IBE_REG",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_IBE_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@1138@macro@GPIO_PORTA_IEV_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_IEV_REG",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_IEV_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@1208@macro@GPIO_PORTA_IM_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_IM_REG",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_IM_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@1278@macro@GPIO_PORTA_RIS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_RIS_REG",
+    "location": {
+      "column": "9",
+      "line": "27",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_RIS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@1348@macro@GPIO_PORTA_ICR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_ICR_REG",
+    "location": {
+      "column": "9",
+      "line": "28",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTA_ICR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@1604@macro@GPIO_PORTB_DATA_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_DATA_REG",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_DATA_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@1674@macro@GPIO_PORTB_DIR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_DIR_REG",
+    "location": {
+      "column": "9",
+      "line": "34",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_DIR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@1744@macro@GPIO_PORTB_AFSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_AFSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "35",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_AFSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@1814@macro@GPIO_PORTB_PUR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_PUR_REG",
+    "location": {
+      "column": "9",
+      "line": "36",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_PUR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@1884@macro@GPIO_PORTB_PDR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_PDR_REG",
+    "location": {
+      "column": "9",
+      "line": "37",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_PDR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@1954@macro@GPIO_PORTB_DEN_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_DEN_REG",
+    "location": {
+      "column": "9",
+      "line": "38",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_DEN_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@2024@macro@GPIO_PORTB_LOCK_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_LOCK_REG",
+    "location": {
+      "column": "9",
+      "line": "39",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_LOCK_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@2094@macro@GPIO_PORTB_CR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_CR_REG",
+    "location": {
+      "column": "9",
+      "line": "40",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_CR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@2164@macro@GPIO_PORTB_AMSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_AMSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "41",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_AMSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@2234@macro@GPIO_PORTB_PCTL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_PCTL_REG",
+    "location": {
+      "column": "9",
+      "line": "42",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_PCTL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@2349@macro@GPIO_PORTB_IS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_IS_REG",
+    "location": {
+      "column": "9",
+      "line": "45",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_IS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@2419@macro@GPIO_PORTB_IBE_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_IBE_REG",
+    "location": {
+      "column": "9",
+      "line": "46",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_IBE_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@2489@macro@GPIO_PORTB_IEV_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_IEV_REG",
+    "location": {
+      "column": "9",
+      "line": "47",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_IEV_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@2559@macro@GPIO_PORTB_IM_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_IM_REG",
+    "location": {
+      "column": "9",
+      "line": "48",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_IM_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@2629@macro@GPIO_PORTB_RIS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_RIS_REG",
+    "location": {
+      "column": "9",
+      "line": "49",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_RIS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@2699@macro@GPIO_PORTB_ICR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_ICR_REG",
+    "location": {
+      "column": "9",
+      "line": "50",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTB_ICR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@2955@macro@GPIO_PORTC_DATA_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_DATA_REG",
+    "location": {
+      "column": "9",
+      "line": "55",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_DATA_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3025@macro@GPIO_PORTC_DIR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_DIR_REG",
+    "location": {
+      "column": "9",
+      "line": "56",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_DIR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3095@macro@GPIO_PORTC_AFSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_AFSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "57",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_AFSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3165@macro@GPIO_PORTC_PUR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_PUR_REG",
+    "location": {
+      "column": "9",
+      "line": "58",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_PUR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3235@macro@GPIO_PORTC_PDR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_PDR_REG",
+    "location": {
+      "column": "9",
+      "line": "59",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_PDR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3305@macro@GPIO_PORTC_DEN_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_DEN_REG",
+    "location": {
+      "column": "9",
+      "line": "60",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_DEN_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3375@macro@GPIO_PORTC_LOCK_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_LOCK_REG",
+    "location": {
+      "column": "9",
+      "line": "61",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_LOCK_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3445@macro@GPIO_PORTC_CR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_CR_REG",
+    "location": {
+      "column": "9",
+      "line": "62",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_CR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3515@macro@GPIO_PORTC_AMSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_AMSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "63",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_AMSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3585@macro@GPIO_PORTC_PCTL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_PCTL_REG",
+    "location": {
+      "column": "9",
+      "line": "64",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_PCTL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3700@macro@GPIO_PORTC_IS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_IS_REG",
+    "location": {
+      "column": "9",
+      "line": "67",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_IS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3770@macro@GPIO_PORTC_IBE_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_IBE_REG",
+    "location": {
+      "column": "9",
+      "line": "68",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_IBE_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3840@macro@GPIO_PORTC_IEV_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_IEV_REG",
+    "location": {
+      "column": "9",
+      "line": "69",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_IEV_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3910@macro@GPIO_PORTC_IM_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_IM_REG",
+    "location": {
+      "column": "9",
+      "line": "70",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_IM_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@3980@macro@GPIO_PORTC_RIS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_RIS_REG",
+    "location": {
+      "column": "9",
+      "line": "71",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_RIS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@4050@macro@GPIO_PORTC_ICR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_ICR_REG",
+    "location": {
+      "column": "9",
+      "line": "72",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTC_ICR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@4306@macro@GPIO_PORTD_DATA_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_DATA_REG",
+    "location": {
+      "column": "9",
+      "line": "77",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_DATA_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@4376@macro@GPIO_PORTD_DIR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_DIR_REG",
+    "location": {
+      "column": "9",
+      "line": "78",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_DIR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@4446@macro@GPIO_PORTD_AFSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_AFSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "79",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_AFSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@4516@macro@GPIO_PORTD_PUR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_PUR_REG",
+    "location": {
+      "column": "9",
+      "line": "80",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_PUR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@4586@macro@GPIO_PORTD_PDR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_PDR_REG",
+    "location": {
+      "column": "9",
+      "line": "81",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_PDR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@4656@macro@GPIO_PORTD_DEN_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_DEN_REG",
+    "location": {
+      "column": "9",
+      "line": "82",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_DEN_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@4726@macro@GPIO_PORTD_LOCK_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_LOCK_REG",
+    "location": {
+      "column": "9",
+      "line": "83",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_LOCK_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@4796@macro@GPIO_PORTD_CR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_CR_REG",
+    "location": {
+      "column": "9",
+      "line": "84",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_CR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@4866@macro@GPIO_PORTD_AMSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_AMSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "85",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_AMSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@4936@macro@GPIO_PORTD_PCTL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_PCTL_REG",
+    "location": {
+      "column": "9",
+      "line": "86",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_PCTL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@5051@macro@GPIO_PORTD_IS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_IS_REG",
+    "location": {
+      "column": "9",
+      "line": "89",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_IS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@5121@macro@GPIO_PORTD_IBE_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_IBE_REG",
+    "location": {
+      "column": "9",
+      "line": "90",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_IBE_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@5191@macro@GPIO_PORTD_IEV_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_IEV_REG",
+    "location": {
+      "column": "9",
+      "line": "91",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_IEV_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@5261@macro@GPIO_PORTD_IM_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_IM_REG",
+    "location": {
+      "column": "9",
+      "line": "92",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_IM_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@5331@macro@GPIO_PORTD_RIS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_RIS_REG",
+    "location": {
+      "column": "9",
+      "line": "93",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_RIS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@5401@macro@GPIO_PORTD_ICR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_ICR_REG",
+    "location": {
+      "column": "9",
+      "line": "94",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTD_ICR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@5657@macro@GPIO_PORTE_DATA_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_DATA_REG",
+    "location": {
+      "column": "9",
+      "line": "99",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_DATA_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@5727@macro@GPIO_PORTE_DIR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_DIR_REG",
+    "location": {
+      "column": "9",
+      "line": "100",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_DIR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@5797@macro@GPIO_PORTE_AFSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_AFSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "101",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_AFSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@5867@macro@GPIO_PORTE_PUR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_PUR_REG",
+    "location": {
+      "column": "9",
+      "line": "102",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_PUR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@5937@macro@GPIO_PORTE_PDR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_PDR_REG",
+    "location": {
+      "column": "9",
+      "line": "103",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_PDR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@6007@macro@GPIO_PORTE_DEN_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_DEN_REG",
+    "location": {
+      "column": "9",
+      "line": "104",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_DEN_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@6077@macro@GPIO_PORTE_LOCK_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_LOCK_REG",
+    "location": {
+      "column": "9",
+      "line": "105",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_LOCK_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@6147@macro@GPIO_PORTE_CR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_CR_REG",
+    "location": {
+      "column": "9",
+      "line": "106",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_CR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@6217@macro@GPIO_PORTE_AMSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_AMSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "107",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_AMSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@6287@macro@GPIO_PORTE_PCTL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_PCTL_REG",
+    "location": {
+      "column": "9",
+      "line": "108",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_PCTL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@6402@macro@GPIO_PORTE_IS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_IS_REG",
+    "location": {
+      "column": "9",
+      "line": "111",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_IS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@6472@macro@GPIO_PORTE_IBE_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_IBE_REG",
+    "location": {
+      "column": "9",
+      "line": "112",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_IBE_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@6542@macro@GPIO_PORTE_IEV_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_IEV_REG",
+    "location": {
+      "column": "9",
+      "line": "113",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_IEV_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@6612@macro@GPIO_PORTE_IM_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_IM_REG",
+    "location": {
+      "column": "9",
+      "line": "114",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_IM_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@6682@macro@GPIO_PORTE_RIS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_RIS_REG",
+    "location": {
+      "column": "9",
+      "line": "115",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_RIS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@6752@macro@GPIO_PORTE_ICR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_ICR_REG",
+    "location": {
+      "column": "9",
+      "line": "116",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTE_ICR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7008@macro@GPIO_PORTF_DATA_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_DATA_REG",
+    "location": {
+      "column": "9",
+      "line": "121",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_DATA_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7078@macro@GPIO_PORTF_DIR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_DIR_REG",
+    "location": {
+      "column": "9",
+      "line": "122",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_DIR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7148@macro@GPIO_PORTF_AFSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_AFSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "123",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_AFSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7218@macro@GPIO_PORTF_PUR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_PUR_REG",
+    "location": {
+      "column": "9",
+      "line": "124",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_PUR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7288@macro@GPIO_PORTF_PDR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_PDR_REG",
+    "location": {
+      "column": "9",
+      "line": "125",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_PDR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7358@macro@GPIO_PORTF_DEN_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_DEN_REG",
+    "location": {
+      "column": "9",
+      "line": "126",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_DEN_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7428@macro@GPIO_PORTF_LOCK_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_LOCK_REG",
+    "location": {
+      "column": "9",
+      "line": "127",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_LOCK_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7498@macro@GPIO_PORTF_CR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_CR_REG",
+    "location": {
+      "column": "9",
+      "line": "128",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_CR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7568@macro@GPIO_PORTF_AMSEL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_AMSEL_REG",
+    "location": {
+      "column": "9",
+      "line": "129",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_AMSEL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7638@macro@GPIO_PORTF_PCTL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_PCTL_REG",
+    "location": {
+      "column": "9",
+      "line": "130",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_PCTL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7753@macro@GPIO_PORTF_IS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_IS_REG",
+    "location": {
+      "column": "9",
+      "line": "133",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_IS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7823@macro@GPIO_PORTF_IBE_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_IBE_REG",
+    "location": {
+      "column": "9",
+      "line": "134",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_IBE_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7893@macro@GPIO_PORTF_IEV_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_IEV_REG",
+    "location": {
+      "column": "9",
+      "line": "135",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_IEV_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@7963@macro@GPIO_PORTF_IM_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_IM_REG",
+    "location": {
+      "column": "9",
+      "line": "136",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_IM_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@8033@macro@GPIO_PORTF_RIS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_RIS_REG",
+    "location": {
+      "column": "9",
+      "line": "137",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_RIS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@8103@macro@GPIO_PORTF_ICR_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_ICR_REG",
+    "location": {
+      "column": "9",
+      "line": "138",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "GPIO_PORTF_ICR_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@8175@macro@SYSCTL_REGCGC2_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SYSCTL_REGCGC2_REG",
+    "location": {
+      "column": "9",
+      "line": "140",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "SYSCTL_REGCGC2_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@8434@macro@SYSTICK_CTRL_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SYSTICK_CTRL_REG",
+    "location": {
+      "column": "9",
+      "line": "146",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "SYSTICK_CTRL_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@8504@macro@SYSTICK_RELOAD_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SYSTICK_RELOAD_REG",
+    "location": {
+      "column": "9",
+      "line": "147",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "SYSTICK_RELOAD_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@8574@macro@SYSTICK_CURRENT_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SYSTICK_CURRENT_REG",
+    "location": {
+      "column": "9",
+      "line": "148",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "SYSTICK_CURRENT_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@8821@macro@SYSCTL_RIS_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SYSCTL_RIS_REG",
+    "location": {
+      "column": "9",
+      "line": "153",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "SYSCTL_RIS_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@8891@macro@SYSCTL_RCC_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SYSCTL_RCC_REG",
+    "location": {
+      "column": "9",
+      "line": "154",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "SYSCTL_RCC_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@8961@macro@SYSCTL_RCC2_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SYSCTL_RCC2_REG",
+    "location": {
+      "column": "9",
+      "line": "155",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "SYSCTL_RCC2_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9209@macro@NVIC_PRI0_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI0_REG",
+    "location": {
+      "column": "9",
+      "line": "160",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI0_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9279@macro@NVIC_PRI1_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI1_REG",
+    "location": {
+      "column": "9",
+      "line": "161",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI1_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9349@macro@NVIC_PRI2_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI2_REG",
+    "location": {
+      "column": "9",
+      "line": "162",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI2_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9419@macro@NVIC_PRI3_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI3_REG",
+    "location": {
+      "column": "9",
+      "line": "163",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI3_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9489@macro@NVIC_PRI4_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI4_REG",
+    "location": {
+      "column": "9",
+      "line": "164",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI4_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9559@macro@NVIC_PRI5_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI5_REG",
+    "location": {
+      "column": "9",
+      "line": "165",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI5_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9629@macro@NVIC_PRI6_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI6_REG",
+    "location": {
+      "column": "9",
+      "line": "166",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI6_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9699@macro@NVIC_PRI7_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI7_REG",
+    "location": {
+      "column": "9",
+      "line": "167",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI7_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9769@macro@NVIC_PRI8_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI8_REG",
+    "location": {
+      "column": "9",
+      "line": "168",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI8_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9839@macro@NVIC_PRI9_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI9_REG",
+    "location": {
+      "column": "9",
+      "line": "169",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI9_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9909@macro@NVIC_PRI10_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI10_REG",
+    "location": {
+      "column": "9",
+      "line": "170",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI10_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@9979@macro@NVIC_PRI11_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI11_REG",
+    "location": {
+      "column": "9",
+      "line": "171",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI11_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10049@macro@NVIC_PRI12_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI12_REG",
+    "location": {
+      "column": "9",
+      "line": "172",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI12_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10119@macro@NVIC_PRI13_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI13_REG",
+    "location": {
+      "column": "9",
+      "line": "173",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI13_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10189@macro@NVIC_PRI14_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI14_REG",
+    "location": {
+      "column": "9",
+      "line": "174",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI14_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10259@macro@NVIC_PRI15_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI15_REG",
+    "location": {
+      "column": "9",
+      "line": "175",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI15_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10329@macro@NVIC_PRI16_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI16_REG",
+    "location": {
+      "column": "9",
+      "line": "176",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI16_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10399@macro@NVIC_PRI17_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI17_REG",
+    "location": {
+      "column": "9",
+      "line": "177",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI17_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10469@macro@NVIC_PRI18_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI18_REG",
+    "location": {
+      "column": "9",
+      "line": "178",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI18_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10539@macro@NVIC_PRI19_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI19_REG",
+    "location": {
+      "column": "9",
+      "line": "179",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI19_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10609@macro@NVIC_PRI20_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI20_REG",
+    "location": {
+      "column": "9",
+      "line": "180",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI20_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10679@macro@NVIC_PRI21_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI21_REG",
+    "location": {
+      "column": "9",
+      "line": "181",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI21_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10749@macro@NVIC_PRI22_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI22_REG",
+    "location": {
+      "column": "9",
+      "line": "182",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI22_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10819@macro@NVIC_PRI23_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI23_REG",
+    "location": {
+      "column": "9",
+      "line": "183",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI23_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10889@macro@NVIC_PRI24_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI24_REG",
+    "location": {
+      "column": "9",
+      "line": "184",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI24_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@10959@macro@NVIC_PRI25_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI25_REG",
+    "location": {
+      "column": "9",
+      "line": "185",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI25_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11029@macro@NVIC_PRI26_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI26_REG",
+    "location": {
+      "column": "9",
+      "line": "186",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI26_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11099@macro@NVIC_PRI27_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI27_REG",
+    "location": {
+      "column": "9",
+      "line": "187",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI27_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11169@macro@NVIC_PRI28_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI28_REG",
+    "location": {
+      "column": "9",
+      "line": "188",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI28_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11239@macro@NVIC_PRI29_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI29_REG",
+    "location": {
+      "column": "9",
+      "line": "189",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI29_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11309@macro@NVIC_PRI30_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI30_REG",
+    "location": {
+      "column": "9",
+      "line": "190",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI30_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11379@macro@NVIC_PRI31_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI31_REG",
+    "location": {
+      "column": "9",
+      "line": "191",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI31_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11449@macro@NVIC_PRI32_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI32_REG",
+    "location": {
+      "column": "9",
+      "line": "192",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI32_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11519@macro@NVIC_PRI33_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI33_REG",
+    "location": {
+      "column": "9",
+      "line": "193",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI33_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11589@macro@NVIC_PRI34_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PRI34_REG",
+    "location": {
+      "column": "9",
+      "line": "194",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_PRI34_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11661@macro@NVIC_EN0_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_EN0_REG",
+    "location": {
+      "column": "9",
+      "line": "196",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_EN0_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11731@macro@NVIC_EN1_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_EN1_REG",
+    "location": {
+      "column": "9",
+      "line": "197",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_EN1_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11801@macro@NVIC_EN2_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_EN2_REG",
+    "location": {
+      "column": "9",
+      "line": "198",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_EN2_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11871@macro@NVIC_EN3_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_EN3_REG",
+    "location": {
+      "column": "9",
+      "line": "199",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_EN3_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@11941@macro@NVIC_EN4_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_EN4_REG",
+    "location": {
+      "column": "9",
+      "line": "200",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_EN4_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@12011@macro@NVIC_DIS0_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_DIS0_REG",
+    "location": {
+      "column": "9",
+      "line": "201",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_DIS0_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@12081@macro@NVIC_DIS1_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_DIS1_REG",
+    "location": {
+      "column": "9",
+      "line": "202",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_DIS1_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@12151@macro@NVIC_DIS2_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_DIS2_REG",
+    "location": {
+      "column": "9",
+      "line": "203",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_DIS2_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@12221@macro@NVIC_DIS3_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_DIS3_REG",
+    "location": {
+      "column": "9",
+      "line": "204",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_DIS3_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@12291@macro@NVIC_DIS4_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_DIS4_REG",
+    "location": {
+      "column": "9",
+      "line": "205",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_DIS4_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@12363@macro@NVIC_SYSTEM_PRI1_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_SYSTEM_PRI1_REG",
+    "location": {
+      "column": "9",
+      "line": "207",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_SYSTEM_PRI1_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@12433@macro@NVIC_SYSTEM_PRI2_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_SYSTEM_PRI2_REG",
+    "location": {
+      "column": "9",
+      "line": "208",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_SYSTEM_PRI2_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@12503@macro@NVIC_SYSTEM_PRI3_REG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_SYSTEM_PRI3_REG",
+    "location": {
+      "column": "9",
+      "line": "209",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_SYSTEM_PRI3_REG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm4c123gh6pm_registers.h@12573@macro@NVIC_SYSTEM_SYSHNDCTRL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_SYSTEM_SYSHNDCTRL",
+    "location": {
+      "column": "9",
+      "line": "210",
+      "path": "C:\\Arm Exercises\\UART\\tm4c123gh6pm_registers.h"
+    },
+    "name": "NVIC_SYSTEM_SYSHNDCTRL",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@341@macro@STD_TYPES_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_TYPES_H",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_TYPES_H",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@504@macro@STD_TYPES_VENDOR_ID",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_TYPES_VENDOR_ID",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_TYPES_VENDOR_ID",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@610@macro@STD_TYPES_SW_MAJOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_TYPES_SW_MAJOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_TYPES_SW_MAJOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@677@macro@STD_TYPES_SW_MINOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_TYPES_SW_MINOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "27",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_TYPES_SW_MINOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@744@macro@STD_TYPES_SW_PATCH_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_TYPES_SW_PATCH_VERSION",
+    "location": {
+      "column": "9",
+      "line": "28",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_TYPES_SW_PATCH_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@848@macro@STD_TYPES_AR_RELEASE_MAJOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_TYPES_AR_RELEASE_MAJOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_TYPES_AR_RELEASE_MAJOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@915@macro@STD_TYPES_AR_RELEASE_MINOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_TYPES_AR_RELEASE_MINOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "34",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_TYPES_AR_RELEASE_MINOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@982@macro@STD_TYPES_AR_RELEASE_PATCH_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_TYPES_AR_RELEASE_PATCH_VERSION",
+    "location": {
+      "column": "9",
+      "line": "35",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_TYPES_AR_RELEASE_PATCH_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@T@Std_ReturnType",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "uint8",
+    "location": {
+      "column": "16",
+      "line": "40",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "Std_ReturnType",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@SA@Std_VersionInfoType",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "46",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "members": [
+      {
+        "ID": "c:@SA@Std_VersionInfoType@FI@vendorID",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "vendorID",
+        "location": {
+          "column": "11",
+          "line": "48",
+          "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+        },
+        "name": "vendorID",
+        "origin": "user_include",
+        "scope": "_anonymous_Std_Types_h_46_9"
+      },
+      {
+        "ID": "c:@SA@Std_VersionInfoType@FI@moduleID",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "moduleID",
+        "location": {
+          "column": "11",
+          "line": "49",
+          "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+        },
+        "name": "moduleID",
+        "origin": "user_include",
+        "scope": "_anonymous_Std_Types_h_46_9"
+      },
+      {
+        "ID": "c:@SA@Std_VersionInfoType@FI@sw_major_version",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "sw_major_version",
+        "location": {
+          "column": "9",
+          "line": "50",
+          "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+        },
+        "name": "sw_major_version",
+        "origin": "user_include",
+        "scope": "_anonymous_Std_Types_h_46_9"
+      },
+      {
+        "ID": "c:@SA@Std_VersionInfoType@FI@sw_minor_version",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "sw_minor_version",
+        "location": {
+          "column": "9",
+          "line": "51",
+          "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+        },
+        "name": "sw_minor_version",
+        "origin": "user_include",
+        "scope": "_anonymous_Std_Types_h_46_9"
+      },
+      {
+        "ID": "c:@SA@Std_VersionInfoType@FI@sw_patch_version",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "sw_patch_version",
+        "location": {
+          "column": "9",
+          "line": "52",
+          "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+        },
+        "name": "sw_patch_version",
+        "origin": "user_include",
+        "scope": "_anonymous_Std_Types_h_46_9"
+      }
+    ],
+    "name": "",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@T@Std_VersionInfoType",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "struct Std_VersionInfoType",
+    "location": {
+      "column": "3",
+      "line": "53",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "Std_VersionInfoType",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@1452@macro@STD_HIGH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_HIGH",
+    "location": {
+      "column": "9",
+      "line": "55",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_HIGH",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@1509@macro@STD_LOW",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_LOW",
+    "location": {
+      "column": "9",
+      "line": "56",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_LOW",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@1567@macro@STD_ACTIVE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_ACTIVE",
+    "location": {
+      "column": "9",
+      "line": "58",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_ACTIVE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@1631@macro@STD_IDLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_IDLE",
+    "location": {
+      "column": "9",
+      "line": "59",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_IDLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@1695@macro@STD_ON",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_ON",
+    "location": {
+      "column": "9",
+      "line": "61",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_ON",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@1750@macro@STD_OFF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STD_OFF",
+    "location": {
+      "column": "9",
+      "line": "62",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "STD_OFF",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@1808@macro@E_OK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "E_OK",
+    "location": {
+      "column": "9",
+      "line": "64",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "E_OK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Std_Types.h@1887@macro@E_NOT_OK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "E_NOT_OK",
+    "location": {
+      "column": "9",
+      "line": "65",
+      "path": "C:\\Arm Exercises\\UART\\Std_Types.h"
+    },
+    "name": "E_NOT_OK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@24@macro@UART_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_H",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_H",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@267@macro@UART_CLOCK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_CLOCK",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_CLOCK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@300@macro@UART_CLOCK_DIVISOR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_CLOCK_DIVISOR",
+    "location": {
+      "column": "9",
+      "line": "15",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_CLOCK_DIVISOR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@335@macro@UART_BAUD_RATE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_BAUD_RATE",
+    "location": {
+      "column": "9",
+      "line": "16",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_BAUD_RATE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@368@macro@BDR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "BDR",
+    "location": {
+      "column": "9",
+      "line": "17",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "BDR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@483@macro@UARTIBRD_VALUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTIBRD_VALUE",
+    "location": {
+      "column": "9",
+      "line": "18",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UARTIBRD_VALUE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@567@macro@UARTFBRD_VALUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTFBRD_VALUE",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UARTFBRD_VALUE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@729@macro@RCGCUART",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCGCUART",
+    "location": {
+      "column": "9",
+      "line": "22",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "RCGCUART",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@847@macro@RCGCGPIO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCGCGPIO",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "RCGCGPIO",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@942@macro@GPIO_PORTA_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTA_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "GPIO_PORTA_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@996@macro@GPIO_PORTB_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTB_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "27",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "GPIO_PORTB_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1050@macro@GPIO_PORTC_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTC_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "28",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "GPIO_PORTC_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1104@macro@GPIO_PORTD_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTD_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "29",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "GPIO_PORTD_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1158@macro@GPIO_PORTE_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTE_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "30",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "GPIO_PORTE_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1212@macro@GPIO_PORTF_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORTF_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "31",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "GPIO_PORTF_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1268@macro@UART0_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART0_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART0_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1322@macro@UART1_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART1_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "34",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART1_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1376@macro@UART2_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART2_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "35",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART2_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1430@macro@UART3_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART3_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "36",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART3_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1484@macro@UART4_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART4_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "37",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART4_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1538@macro@UART5_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART5_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "38",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART5_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1592@macro@UART6_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART6_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "39",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART6_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1646@macro@UART7_BASE_ADDRESS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART7_BASE_ADDRESS",
+    "location": {
+      "column": "9",
+      "line": "40",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART7_BASE_ADDRESS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1722@macro@PORT_ALT_FUNC_REG_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PORT_ALT_FUNC_REG_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "43",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "PORT_ALT_FUNC_REG_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1771@macro@PORT_CTL_REG_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PORT_CTL_REG_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "44",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "PORT_CTL_REG_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1820@macro@PORT_LOCK_REG_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PORT_LOCK_REG_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "45",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "PORT_LOCK_REG_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1869@macro@PORT_COMMIT_REG_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PORT_COMMIT_REG_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "46",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "PORT_COMMIT_REG_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1918@macro@PORT_DIGITAL_ENABLE_REG_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PORT_DIGITAL_ENABLE_REG_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "47",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "PORT_DIGITAL_ENABLE_REG_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@1969@macro@UARTDR_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTDR_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "49",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UARTDR_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2018@macro@UARTCTL_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTCTL_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "50",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UARTCTL_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2067@macro@UARTIBRD_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTIBRD_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "51",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UARTIBRD_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2116@macro@UARTFBRD_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTFBRD_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "52",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UARTFBRD_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2165@macro@UARTLCRH_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTLCRH_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "53",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UARTLCRH_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2214@macro@UARTCC_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTCC_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "54",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UARTCC_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2263@macro@UARTFR_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTFR_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "55",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UARTFR_OFFSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2337@macro@UARTEN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UARTEN",
+    "location": {
+      "column": "9",
+      "line": "58",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UARTEN",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2360@macro@TXE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TXE",
+    "location": {
+      "column": "9",
+      "line": "59",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "TXE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2383@macro@RXE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RXE",
+    "location": {
+      "column": "9",
+      "line": "60",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "RXE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2406@macro@TXFF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TXFF",
+    "location": {
+      "column": "9",
+      "line": "61",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "TXFF",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2429@macro@RXFE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RXFE",
+    "location": {
+      "column": "9",
+      "line": "62",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "RXFE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2452@macro@FEN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "FEN",
+    "location": {
+      "column": "9",
+      "line": "63",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "FEN",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2499@macro@UART_0_RX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_0_RX",
+    "location": {
+      "column": "9",
+      "line": "66",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_0_RX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2571@macro@UART_0_TX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_0_TX",
+    "location": {
+      "column": "9",
+      "line": "67",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_0_TX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2640@macro@UART_1_RX_PB0",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_1_RX_PB0",
+    "location": {
+      "column": "9",
+      "line": "68",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_1_RX_PB0",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2677@macro@UART_1_TX_PB1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_1_TX_PB1",
+    "location": {
+      "column": "9",
+      "line": "69",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_1_TX_PB1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2715@macro@UART_1_RX_PC4",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_1_RX_PC4",
+    "location": {
+      "column": "9",
+      "line": "70",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_1_RX_PC4",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2752@macro@UART_1_TX_PC5",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_1_TX_PC5",
+    "location": {
+      "column": "9",
+      "line": "71",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_1_TX_PC5",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2789@macro@UART_2_RX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_2_RX",
+    "location": {
+      "column": "9",
+      "line": "72",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_2_RX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2826@macro@UART_2_TX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_2_TX",
+    "location": {
+      "column": "9",
+      "line": "73",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_2_TX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2863@macro@UART_3_RX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_3_RX",
+    "location": {
+      "column": "9",
+      "line": "74",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_3_RX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2901@macro@UART_3_TX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_3_TX",
+    "location": {
+      "column": "9",
+      "line": "75",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_3_TX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2938@macro@UART_4_RX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_4_RX",
+    "location": {
+      "column": "9",
+      "line": "76",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_4_RX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@2975@macro@UART_4_TX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_4_TX",
+    "location": {
+      "column": "9",
+      "line": "77",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_4_TX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3012@macro@UART_5_RX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_5_RX",
+    "location": {
+      "column": "9",
+      "line": "78",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_5_RX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3049@macro@UART_5_TX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_5_TX",
+    "location": {
+      "column": "9",
+      "line": "79",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_5_TX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3086@macro@UART_6_RX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_6_RX",
+    "location": {
+      "column": "9",
+      "line": "80",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_6_RX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3123@macro@UART_6_TX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_6_TX",
+    "location": {
+      "column": "9",
+      "line": "81",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_6_TX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3160@macro@UART_7_RX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_7_RX",
+    "location": {
+      "column": "9",
+      "line": "82",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_7_RX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3197@macro@UART_7_TX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART_7_TX",
+    "location": {
+      "column": "9",
+      "line": "83",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_7_TX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3236@macro@DATA_LENGTH_5_BITS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DATA_LENGTH_5_BITS",
+    "location": {
+      "column": "9",
+      "line": "85",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "DATA_LENGTH_5_BITS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3272@macro@DATA_LENGTH_6_BITS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DATA_LENGTH_6_BITS",
+    "location": {
+      "column": "9",
+      "line": "86",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "DATA_LENGTH_6_BITS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3308@macro@DATA_LENGTH_7_BITS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DATA_LENGTH_7_BITS",
+    "location": {
+      "column": "9",
+      "line": "87",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "DATA_LENGTH_7_BITS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3344@macro@DATA_LENGTH_8_BITS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DATA_LENGTH_8_BITS",
+    "location": {
+      "column": "9",
+      "line": "88",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "DATA_LENGTH_8_BITS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3382@macro@ONE_STOP_BIT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ONE_STOP_BIT",
+    "location": {
+      "column": "9",
+      "line": "90",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "ONE_STOP_BIT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.h@3418@macro@TWO_STOP_BITS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TWO_STOP_BITS",
+    "location": {
+      "column": "9",
+      "line": "91",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "TWO_STOP_BITS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@SA@UART_Config",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "95",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "members": [
+      {
+        "ID": "c:@SA@UART_Config@FI@UART_Mode",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "UART_Mode",
+        "location": {
+          "column": "8",
+          "line": "96",
+          "path": "C:\\Arm Exercises\\UART\\uart.h"
+        },
+        "name": "UART_Mode",
+        "origin": "user_include",
+        "scope": "_anonymous_uart_h_95_9"
+      },
+      {
+        "ID": "c:@SA@UART_Config@FI@Data_length_bits",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "Data_length_bits",
+        "location": {
+          "column": "7",
+          "line": "97",
+          "path": "C:\\Arm Exercises\\UART\\uart.h"
+        },
+        "name": "Data_length_bits",
+        "origin": "user_include",
+        "scope": "_anonymous_uart_h_95_9"
+      },
+      {
+        "ID": "c:@SA@UART_Config@FI@Stop_Bits_No",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "Stop_Bits_No",
+        "location": {
+          "column": "7",
+          "line": "98",
+          "path": "C:\\Arm Exercises\\UART\\uart.h"
+        },
+        "name": "Stop_Bits_No",
+        "origin": "user_include",
+        "scope": "_anonymous_uart_h_95_9"
+      },
+      {
+        "ID": "c:@T@UART_Config",
+        "What": "TypedefDecl",
+        "defdec": "Def",
+        "display": "struct UART_Config",
+        "location": {
+          "column": "2",
+          "line": "100",
+          "path": "C:\\Arm Exercises\\UART\\uart.h"
+        },
+        "name": "UART_Config",
+        "origin": "user_include",
+        "scope": "_anonymous_uart_h_95_9"
+      }
+    ],
+    "name": "",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void UART_Init(const UART_Config *)",
+    "location": {
+      "column": "6",
+      "line": "103",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_Init",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void UART_Init(const UART_Config *)",
+    "location": {
+      "column": "6",
+      "line": "103",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_Init",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_Send_Byte",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void UART_Send_Byte(uint8, uint16)",
+    "location": {
+      "column": "6",
+      "line": "104",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_Send_Byte",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_Send_Byte",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void UART_Send_Byte(uint8, uint16)",
+    "location": {
+      "column": "6",
+      "line": "104",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_Send_Byte",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_Recieve_Byte",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "uint8 UART_Recieve_Byte(uint16)",
+    "location": {
+      "column": "7",
+      "line": "105",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_Recieve_Byte",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_Recieve_Byte",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "uint8 UART_Recieve_Byte(uint16)",
+    "location": {
+      "column": "7",
+      "line": "105",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_Recieve_Byte",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_sendString",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void UART_sendString(const uint8 *, uint16)",
+    "location": {
+      "column": "6",
+      "line": "106",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_sendString",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_sendString",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void UART_sendString(const uint8 *, uint16)",
+    "location": {
+      "column": "6",
+      "line": "106",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_sendString",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_receiveString",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void UART_receiveString(uint8 *, uint16)",
+    "location": {
+      "column": "6",
+      "line": "107",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_receiveString",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_receiveString",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void UART_receiveString(uint8 *, uint16)",
+    "location": {
+      "column": "6",
+      "line": "107",
+      "path": "C:\\Arm Exercises\\UART\\uart.h"
+    },
+    "name": "UART_receiveString",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@372@macro@PLATFORM_TYPES_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PLATFORM_TYPES_H",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "PLATFORM_TYPES_H",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@486@macro@PLATFORM_VENDOR_ID",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PLATFORM_VENDOR_ID",
+    "location": {
+      "column": "9",
+      "line": "18",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "PLATFORM_VENDOR_ID",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@583@macro@PLATFORM_SW_MAJOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PLATFORM_SW_MAJOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "PLATFORM_SW_MAJOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@641@macro@PLATFORM_SW_MINOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PLATFORM_SW_MINOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "PLATFORM_SW_MINOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@699@macro@PLATFORM_SW_PATCH_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PLATFORM_SW_PATCH_VERSION",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "PLATFORM_SW_PATCH_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@794@macro@PLATFORM_AR_RELEASE_MAJOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PLATFORM_AR_RELEASE_MAJOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "30",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "PLATFORM_AR_RELEASE_MAJOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@852@macro@PLATFORM_AR_RELEASE_MINOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PLATFORM_AR_RELEASE_MINOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "31",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "PLATFORM_AR_RELEASE_MINOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@910@macro@PLATFORM_AR_RELEASE_PATCH_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PLATFORM_AR_RELEASE_PATCH_VERSION",
+    "location": {
+      "column": "9",
+      "line": "32",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "PLATFORM_AR_RELEASE_PATCH_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1007@macro@CPU_TYPE_8",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CPU_TYPE_8",
+    "location": {
+      "column": "9",
+      "line": "37",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "CPU_TYPE_8",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1065@macro@CPU_TYPE_16",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CPU_TYPE_16",
+    "location": {
+      "column": "9",
+      "line": "38",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "CPU_TYPE_16",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1124@macro@CPU_TYPE_32",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CPU_TYPE_32",
+    "location": {
+      "column": "9",
+      "line": "39",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "CPU_TYPE_32",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1219@macro@MSB_FIRST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "MSB_FIRST",
+    "location": {
+      "column": "9",
+      "line": "44",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "MSB_FIRST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1305@macro@LSB_FIRST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LSB_FIRST",
+    "location": {
+      "column": "9",
+      "line": "45",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "LSB_FIRST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1428@macro@HIGH_BYTE_FIRST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HIGH_BYTE_FIRST",
+    "location": {
+      "column": "9",
+      "line": "50",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "HIGH_BYTE_FIRST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1514@macro@LOW_BYTE_FIRST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LOW_BYTE_FIRST",
+    "location": {
+      "column": "9",
+      "line": "51",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "LOW_BYTE_FIRST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1684@macro@CPU_TYPE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CPU_TYPE",
+    "location": {
+      "column": "9",
+      "line": "56",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "CPU_TYPE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1727@macro@CPU_BIT_ORDER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CPU_BIT_ORDER",
+    "location": {
+      "column": "9",
+      "line": "58",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "CPU_BIT_ORDER",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1766@macro@CPU_BYTE_ORDER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CPU_BYTE_ORDER",
+    "location": {
+      "column": "9",
+      "line": "59",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "CPU_BYTE_ORDER",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1855@macro@FALSE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "FALSE",
+    "location": {
+      "column": "9",
+      "line": "65",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "FALSE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@1903@macro@TRUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TRUE",
+    "location": {
+      "column": "9",
+      "line": "68",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "TRUE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@T@boolean",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned char",
+    "location": {
+      "column": "31",
+      "line": "71",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "boolean",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@T@uint8",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned char",
+    "location": {
+      "column": "31",
+      "line": "73",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "uint8",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@T@sint8",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "signed char",
+    "location": {
+      "column": "31",
+      "line": "74",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "sint8",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@T@uint16",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned short",
+    "location": {
+      "column": "31",
+      "line": "75",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "uint16",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@T@sint16",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "short",
+    "location": {
+      "column": "31",
+      "line": "76",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "sint16",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@T@uint32",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned long",
+    "location": {
+      "column": "31",
+      "line": "77",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "uint32",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@T@sint32",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "long",
+    "location": {
+      "column": "31",
+      "line": "78",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "sint32",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@T@uint64",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned long long",
+    "location": {
+      "column": "31",
+      "line": "79",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "uint64",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@T@sint64",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "long long",
+    "location": {
+      "column": "31",
+      "line": "80",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "sint64",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@T@float32",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "float",
+    "location": {
+      "column": "31",
+      "line": "81",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "float32",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Platform_Types.h@T@float64",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "double",
+    "location": {
+      "column": "31",
+      "line": "82",
+      "path": "C:\\Arm Exercises\\UART\\Platform_Types.h"
+    },
+    "name": "float64",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Common_Macros.h@341@macro@COMMON_MACROS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COMMON_MACROS",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "C:\\Arm Exercises\\UART\\Common_Macros.h"
+    },
+    "name": "COMMON_MACROS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Common_Macros.h@407@macro@SET_BIT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SET_BIT",
+    "location": {
+      "column": "9",
+      "line": "17",
+      "path": "C:\\Arm Exercises\\UART\\Common_Macros.h"
+    },
+    "name": "SET_BIT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Common_Macros.h@496@macro@CLEAR_BIT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CLEAR_BIT",
+    "location": {
+      "column": "9",
+      "line": "20",
+      "path": "C:\\Arm Exercises\\UART\\Common_Macros.h"
+    },
+    "name": "CLEAR_BIT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Common_Macros.h@591@macro@TOGGLE_BIT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TOGGLE_BIT",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\Arm Exercises\\UART\\Common_Macros.h"
+    },
+    "name": "TOGGLE_BIT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Common_Macros.h@711@macro@ROR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ROR",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Arm Exercises\\UART\\Common_Macros.h"
+    },
+    "name": "ROR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Common_Macros.h@861@macro@ROL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ROL",
+    "location": {
+      "column": "9",
+      "line": "29",
+      "path": "C:\\Arm Exercises\\UART\\Common_Macros.h"
+    },
+    "name": "ROL",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Common_Macros.h@1018@macro@BIT_IS_SET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "BIT_IS_SET",
+    "location": {
+      "column": "9",
+      "line": "32",
+      "path": "C:\\Arm Exercises\\UART\\Common_Macros.h"
+    },
+    "name": "BIT_IS_SET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Common_Macros.h@1151@macro@BIT_IS_CLEAR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "BIT_IS_CLEAR",
+    "location": {
+      "column": "9",
+      "line": "35",
+      "path": "C:\\Arm Exercises\\UART\\Common_Macros.h"
+    },
+    "name": "BIT_IS_CLEAR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@463@macro@COMPILER_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COMPILER_H",
+    "location": {
+      "column": "9",
+      "line": "15",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "COMPILER_H",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@571@macro@COMPILER_VENDOR_ID",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COMPILER_VENDOR_ID",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "COMPILER_VENDOR_ID",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@676@macro@COMPILER_SW_MAJOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COMPILER_SW_MAJOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "COMPILER_SW_MAJOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@742@macro@COMPILER_SW_MINOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COMPILER_SW_MINOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "COMPILER_SW_MINOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@808@macro@COMPILER_SW_PATCH_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COMPILER_SW_PATCH_VERSION",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "COMPILER_SW_PATCH_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@911@macro@COMPILER_AR_RELEASE_MAJOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COMPILER_AR_RELEASE_MAJOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "31",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "COMPILER_AR_RELEASE_MAJOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@977@macro@COMPILER_AR_RELEASE_MINOR_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COMPILER_AR_RELEASE_MINOR_VERSION",
+    "location": {
+      "column": "9",
+      "line": "32",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "COMPILER_AR_RELEASE_MINOR_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@1043@macro@COMPILER_AR_RELEASE_PATCH_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COMPILER_AR_RELEASE_PATCH_VERSION",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "COMPILER_AR_RELEASE_PATCH_VERSION",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@1181@macro@AUTOMATIC",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "AUTOMATIC",
+    "location": {
+      "column": "9",
+      "line": "36",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "AUTOMATIC",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@1306@macro@TYPEDEF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TYPEDEF",
+    "location": {
+      "column": "9",
+      "line": "40",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "TYPEDEF",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@1391@macro@NULL_PTR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NULL_PTR",
+    "location": {
+      "column": "9",
+      "line": "43",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "NULL_PTR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@1505@macro@INLINE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INLINE",
+    "location": {
+      "column": "9",
+      "line": "46",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "INLINE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@1597@macro@LOCAL_INLINE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LOCAL_INLINE",
+    "location": {
+      "column": "9",
+      "line": "49",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "LOCAL_INLINE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Compiler.h@1713@macro@STATIC",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STATIC",
+    "location": {
+      "column": "9",
+      "line": "52",
+      "path": "C:\\Arm Exercises\\UART\\Compiler.h"
+    },
+    "name": "STATIC",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "3",
+      "path": "C:\\Arm Exercises\\UART\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@37@F@main@string",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "string",
+    "location": {
+      "column": "9",
+      "line": "5",
+      "path": "C:\\Arm Exercises\\UART\\main.c"
+    },
+    "name": "string",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@85@F@main@Configuration1",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "Configuration1",
+    "location": {
+      "column": "15",
+      "line": "6",
+      "path": "C:\\Arm Exercises\\UART\\main.c"
+    },
+    "name": "Configuration1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void UART_Init(const UART_Config *)",
+    "location": {
+      "column": "6",
+      "line": "14",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "UART_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.c@626@F@UART_Init@PortGpio_Ptr",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "PortGpio_Ptr",
+    "location": {
+      "column": "23",
+      "line": "16",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "PortGpio_Ptr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.c@730@F@UART_Init@UART_Ptr",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "UART_Ptr",
+    "location": {
+      "column": "23",
+      "line": "17",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "UART_Ptr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.c@834@F@UART_Init@delay",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "delay",
+    "location": {
+      "column": "21",
+      "line": "18",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "delay",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.c@875@F@UART_Init@Port_Num",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "Port_Num",
+    "location": {
+      "column": "20",
+      "line": "19",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "Port_Num",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_Send_Byte",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void UART_Send_Byte(uint8, uint16)",
+    "location": {
+      "column": "6",
+      "line": "151",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "UART_Send_Byte",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.c@7325@F@UART_Send_Byte@UART_Ptr",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "UART_Ptr",
+    "location": {
+      "column": "21",
+      "line": "153",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "UART_Ptr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_Recieve_Byte",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "uint8 UART_Recieve_Byte(uint16)",
+    "location": {
+      "column": "7",
+      "line": "183",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "UART_Recieve_Byte",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.c@8691@F@UART_Recieve_Byte@UART_Ptr",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "UART_Ptr",
+    "location": {
+      "column": "23",
+      "line": "185",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "UART_Ptr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_sendString",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void UART_sendString(const uint8 *, uint16)",
+    "location": {
+      "column": "6",
+      "line": "215",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "UART_sendString",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_receiveString",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void UART_receiveString(uint8 *, uint16)",
+    "location": {
+      "column": "6",
+      "line": "225",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "UART_receiveString",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:uart.c@10365@F@UART_receiveString@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "8",
+      "line": "227",
+      "path": "C:\\Arm Exercises\\UART\\uart.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  }
+]
